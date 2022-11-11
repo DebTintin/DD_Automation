@@ -31,9 +31,8 @@ public class Constructor1
 	System.out.println("Four Parameterized Constructor");
   }
   
-public static void main(String[] args)
-{
+  public static void main(String[] args)
+  {
   Constructor1 obj1 = new Constructor1 (33, 44);
-}
-  
+  }  
 }
